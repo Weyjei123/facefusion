@@ -21,6 +21,7 @@ Be aware, the [installation](https://docs.facefusion.io/installation) needs tech
 
 Usage
 -----
+https://colab.research.google.com/drive/1o5O9yU32dVGHhrenI_wYQ_LKL-77Bd0u?authuser=2
 
 Run the command:
 
